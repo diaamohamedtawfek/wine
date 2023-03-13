@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="38" viewBox="0 0 148 38">
+    <defs>
+        <filter id="t6gfy5l60a" width="148" height="38" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#t6gfy5l60a)" transform="translate(-191 -188) translate(191 188)">
+            <g fill="#fff" stroke="#9f0000" stroke-width="1.8px" transform="translate(9 6)">
+                <rect width="130" height="20" stroke="none" rx="10"/>
+                <rect width="128.2" height="18.2" x=".9" y=".9" fill="none" rx="9.1"/>
+            </g>
+        </g>
+        <path fill="#9f0000" d="M3 0l3 6H0z" transform="translate(-191 -188) rotate(180 160 110)"/>
+    </g>
+</svg>
+
+

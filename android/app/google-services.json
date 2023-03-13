@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "693160405647",
+    "project_id": "wainsale",
+    "storage_bucket": "wainsale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693160405647:android:a1cdc7053c4e1a59b1defa",
+        "android_client_info": {
+          "package_name": "com.wain.technology.wain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693160405647-qf87sc4sv03j23q4c2scl03l59703pkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzZxP0mFym7hPz0CFLwVU3U9dBaUiZOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693160405647-qf87sc4sv03j23q4c2scl03l59703pkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693160405647-2qph8b0rsi4kucvgf8movdbkvh60tuua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wain.technology.wain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
